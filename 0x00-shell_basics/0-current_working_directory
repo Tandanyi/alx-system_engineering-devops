@@ -1,2 +1,2 @@
 #!/bin/bash
- pwd -L 
+find $(pwd) -name 0x00-shell_basics
