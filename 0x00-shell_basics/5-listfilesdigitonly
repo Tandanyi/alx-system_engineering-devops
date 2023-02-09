@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lrt -al [0-9]*
+ls -lrt  [0-9]*
