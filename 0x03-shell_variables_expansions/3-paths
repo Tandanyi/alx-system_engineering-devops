@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al | grep |wc -l $PATH
+echo $PATH| tr ':' '\n'|grep .|wc -l
